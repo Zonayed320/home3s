@@ -1,5 +1,5 @@
 $('body').bind("contextmenu",function(e){
-    alert(' Use Your Brain.. This Example Protected by Zonayed Ahamad')
+    alert(' Uhhhu... 😊 This Example Protected by Zonayed Ahamad')
     return false;
 });
 
